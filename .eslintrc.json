@@ -13,6 +13,7 @@
         "comma-dangle": 0,
         "no-console": 0,
         "linebreak-style": 0,
-        "no-extraneous-dependencies": 0
+        "no-extraneous-dependencies": 0,
+        "object-curly-newline": 0
     }
 }
